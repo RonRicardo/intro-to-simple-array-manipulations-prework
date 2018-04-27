@@ -39,6 +39,5 @@ def using_flatten(arr)
 end
 
 def using_delete(arr, str)
-  positon = arr.index(str)
-  position.delete
+  arr.delete(str)
 end
