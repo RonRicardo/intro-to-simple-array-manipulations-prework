@@ -33,3 +33,7 @@ end
 def using_uniq(arr)
   new_arr = arr.uniq
 end
+
+def using_flatten(arr)
+  strings = arr.flatten
+end
