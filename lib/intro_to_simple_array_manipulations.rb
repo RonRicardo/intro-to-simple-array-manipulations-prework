@@ -40,5 +40,5 @@ end
 
 def using_delete(arr, str)
   positon = arr.index(str)
-  delete position
+  position.delete
 end
